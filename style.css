@@ -1,0 +1,68 @@
+.light-orange-color {
+    color: #EBE1C5;
+}
+
+.button {
+    border-radius: 10px;
+    text-decoration: none;
+    height: 2rem;
+    padding-top: 2px;
+}
+
+.home .button {
+    width: 11rem;
+    border-radius: 10px;
+    border: 1px solid #595643;
+    text-decoration: none;
+    height: 3.7rem;
+    align-items: center;
+    place-content: center;
+}
+
+.button-light-orange {
+    background-color: #EBE1C5;
+    color: #595643;
+    border-color: 2px solid #595643;
+}
+
+.button:hover {
+    background-color: #e8d8ab;
+    color: #595643;
+}
+
+.button-primary {
+    background-color: #EBCC6E;
+    color: #595643;
+}
+
+
+img {
+    width: 100%;
+}
+
+.home-button {
+    position: absolute;
+    display: flex;
+    top: 400px;
+    left: 110px;
+}
+
+.entenda-seu-negocio .row .col-8 {
+    margin: auto;
+}
+
+.frases .row .col-8 {
+    margin: auto;
+}
+.frases .row .col-8 .titulo {
+    font-size: 36px;
+}
+
+.titulo {
+    font-size: 48px;
+    font-weight: bold;
+    margin-top: 8rem;
+    text-align: center;
+    text-transform: uppercase;
+    color: #595643;
+}
